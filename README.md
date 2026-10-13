@@ -102,7 +102,6 @@ En la primera ejecución del Job, `99_verificacion` falló: Bronze tenía **43.8
 
 Arreglo: dejar en `01_ingesta` una sola celda idempotente (aterriza solo los días que no existen en el Volume), resetear Bronze con `00_mantenimiento` y volver a correr el Job.
 
-**Lección:** un notebook que corre dentro de un Job debe contener únicamente lo que tiene que ejecutarse en cada corrida.
 
 ## Resultados verificados
 
