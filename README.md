@@ -2,7 +2,7 @@
 
 Pipeline de datos end-to-end con arquitectura **Medallion (Bronze / Silver / Gold)** sobre Delta Lake, construido en **Databricks Free Edition**. Ingesta incremental con Auto Loader, validación de calidad con tabla de rechazados, orquestación con Databricks Jobs y dashboard con KPIs de negocio.
 
-**Stack:** PySpark · SQL · Delta Lake · Auto Loader · Unity Catalog (Volumes) · Databricks Jobs · Databricks Dashboards
+**Stack utilizado:** PySpark · SQL · Delta Lake · Auto Loader · Unity Catalog (Volumes) · Databricks Jobs · Databricks Dashboards
 
 ---
 
