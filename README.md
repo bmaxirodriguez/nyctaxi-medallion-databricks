@@ -1,6 +1,6 @@
 # NYC Taxi: Pipeline Medallion en Databricks
 
-Pipeline de datos de punta a punta con arquitectura **Medallion (Bronze / Silver / Gold)** sobre Delta Lake, construido en **Databricks Free Edition**. Ingesta incremental con Auto Loader, validación de calidad con tabla de rechazados, orquestación con Databricks Jobs y dashboard con KPIs de negocio.
+Pipeline de datos end-to-end con arquitectura **Medallion (Bronze / Silver / Gold)** sobre Delta Lake, construido en **Databricks Free Edition**. Ingesta incremental con Auto Loader, validación de calidad con tabla de rechazados, orquestación con Databricks Jobs y dashboard con KPIs de negocio.
 
 **Stack:** PySpark · SQL · Delta Lake · Auto Loader · Unity Catalog (Volumes) · Databricks Jobs · Databricks Dashboards
 
