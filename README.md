@@ -115,9 +115,8 @@ Todos los chequeos de calidad pasaron
 ![Job](docs/img/job.png)
 ![Dashboard](docs/img/dashboard.png)
 
-## Mejoras futuras
+## Mejoras futuras - Líneas de acción
 
 - Silver incremental con `MERGE` en lugar de reconstrucción completa.
 - Programar el Job con un schedule diario.
-- Reemplazar el dataset de ejemplo por un dataset abierto argentino (datos.gob.ar).
 - Migrar a Lakeflow Spark Declarative Pipelines con expectations para las reglas de calidad.
